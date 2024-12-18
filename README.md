@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br>I'm a student passionate about Data Science, AI, and Machine Learning using Python. I've also dived into Data Analysis fundamentals and am currently exploring the world of Web Development.<br><br>🌱 Learning & Growing:<br><br>Building skills in Python for data and AI projects.<br>Experimenting with web technologies to expand my horizons.<br>💡 Interests:<br><br>Solving problems with data-driven insights.<br>Creating impactful and innovative projects.<br><br>🚀 Let's build something amazing together!
+👋 Hi there!<br>I'm a student passionate about Data Science, AI, and Machine Learning using Python. I've also dived into Data Analysis fundamentals and am currently exploring the world of Web Development.<br><br>🌱 Learning & Growing:<br>Building skills in Python for data and AI projects.<br>Experimenting with web technologies to expand my horizons.<br><br>💡 Interests:<br>Solving problems with data-driven insights.<br>Creating impactful and innovative projects.<br><br>🚀 Let's build something amazing together!
 
 
 ## 🌐 Socials:
@@ -24,4 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeByOS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
