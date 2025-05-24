@@ -7,8 +7,6 @@ Hi 👋 My name is Oussama SAIDI
 Business Intelligence Analyst && MERN Developer
 -----------------------------------------------
 
-(img align="right" alt="Coding" width="400" src="https://itechnasik.com/mern-stack-development-course/")
-
 I have a Bachelor's degree in Business Intelligence and completed a bootcamp in full-stack web development using the MERN stack (MongoDB, Express.js, React, Node.js). I’m now focused on improving my coding skills and building real-world projects. I enjoy creating useful web apps and combining tech with smart business thinking.
 
 * 🌍  I'm based in Agadir, Morocco
