@@ -39,20 +39,20 @@ I have a Bachelor's degree in Business Intelligence and completed a bootcamp in 
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" width="36" height="36" alt="Mongoose" />
   </a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>&nbsp;
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
   </a>&nbsp;
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/sql-2.svg" width="36" height="36" alt="SQL" />
-  </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>&nbsp;
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>&nbsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="Power BI" />
   </a>&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
@@ -61,8 +61,6 @@ I have a Bachelor's degree in Business Intelligence and completed a bootcamp in 
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="36" height="36" alt="Jira" />
   </a>
 </p>
-
-
 
 
 ### Socials
