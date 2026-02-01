@@ -4,10 +4,10 @@ Hi 👋 My name is Oussama SAIDI
 =====================================================================================================================================
 
 
-Business Intelligence Analyst && MERN Developer
------------------------------------------------
+MERN Stack Developer (React/Node) && BI Analyst
+------------------------------------------------
 
-I have a Bachelor's degree in Business Intelligence and completed a bootcamp in full-stack web development using the MERN stack (MongoDB, Express.js, React, Node.js). I’m now focused on improving my coding skills and building real-world projects. I enjoy creating useful web apps and combining tech with smart business thinking.
+I am a bachelor’s student in Computer Systems and Software Engineering and have completed a bootcamp in full-stack web development using the MERN stack (MongoDB, Express.js, React, and Node.js). I am currently focused on improving my coding skills and building real-world projects. I enjoy creating useful web applications and combining technology with smart business thinking.
 
 * 🌍  I'm based in Agadir, Morocco
 * ✉️  You can contact me at [saidi.oussama2004@gmail.com](mailto:saidi.oussama2004@gmail.com)
