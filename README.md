@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/29/7d/c9/297dc9a99ea1525db31fc48c59f03223.gif" alt="Lo-Fi Coding" width="100%">
+  <div align="center">
+    <img src="https://i.pinimg.com/originals/29/7d/c9/297dc9a99ea1525db31fc48c59f03223.gif" alt="Lo-Fi Coding" width="800" />
+  </div>
 
   # Hi 👋, I'm Oussama SAIDI
   ### MERN Stack Developer (React/Node) & BI Analyst
