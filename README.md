@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/xK.gif" alt="MasterHead" width="600" />
+  <img src="https://i.pinimg.com/originals/29/7d/c9/297dc9a99ea1525db31fc48c59f03223.gif" alt="Lo-Fi Coding" width="100%">
 
   # Hi 👋, I'm Oussama SAIDI
   ### MERN Stack Developer (React/Node) & BI Analyst
@@ -74,6 +74,6 @@ I am a Bachelor’s student in **Computer Systems and Software Engineering** and
 <br />
 <div align="center">
   <a href="https://github.com/CodeByOS">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByOS&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" width="60%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByOS&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" width="48%" />
   </a>
 </div>
