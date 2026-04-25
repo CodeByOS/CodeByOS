@@ -27,8 +27,6 @@
 I am a Bachelor’s student in **Computer Systems and Software Engineering** and have completed a bootcamp in full-stack web development using the MERN stack. I enjoy creating useful, dynamic web applications and combining technology with smart business thinking. 
 
 * 🌍 Based in **Agadir, Morocco**.
-* 🎸 Currently developing **bandCRUD**, a full-stack music band management application using the MERN stack.
-* 🔐 Deep diving into modular backend architecture and implementing secure authentication protocols (like **JWT**).
 * 📊 Blending software engineering with Business Intelligence to extract actionable data insights.
 
 ---
