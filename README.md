@@ -1,81 +1,88 @@
 <div align="center">
-  <div align="center">
-    <img src="https://i.pinimg.com/originals/29/7d/c9/297dc9a99ea1525db31fc48c59f03223.gif" alt="Lo-Fi Coding" width="800" />
-  </div>
 
-  # Hi 👋, I'm Oussama SAIDI
-  ### MERN Stack Developer (React/Node) & BI Analyst
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Oussama%20SAIDI&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20BI%20Analyst&descAlignY=60&descSize=18&descColor=c0b8ff" width="100%" />
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/oussama-saidi-/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.github.com/CodeByOS" target="_blank">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.dev.to/oussama_saidi" target="_blank">
-      <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-    </a>
-    <a href="mailto:saidi.oussama2004@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+Full-Stack+Web+Applications;Turning+Data+into+Business+Insights;MERN+Stack+%7C+Next.js+%7C+Power+BI;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-saidi-/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/CodeByOS)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://www.dev.to/oussama_saidi)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidi.oussama2004@gmail.com)
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a Bachelor’s student in **Computer Systems and Software Engineering** and have completed a bootcamp in full-stack web development using the MERN stack. I enjoy creating useful, dynamic web applications and combining technology with smart business thinking. 
-
-* 🌍 Based in **Agadir, Morocco**.
-* 📊 Blending software engineering with Business Intelligence to extract actionable data insights.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Frontend Development**
-<p align="left">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36" height="36" alt="Next.js" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-</p>
-
-**Backend & Databases**
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" /></a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>&nbsp;
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" width="36" height="36" alt="Mongoose" /></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
-
-**Tools & Data**
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="Power BI" /></a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>&nbsp;
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="36" height="36" alt="Jira" /></a>
-</p>
+```ts
+const oussama = {
+  location:  "Agadir, Morocco 🇲🇦",
+  education: "B.Sc. Computer Systems & Software Engineering",
+  focus:     ["Full-Stack Development", "Business Intelligence", "Data Analytics"],
+  currently: "Building MERN applications & BI dashboards",
+  funFact:   "I bridge the gap between code and data-driven decisions 📊",
+};
+```
 
 ---
 
-### 📈 GitHub Activity
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="http://www.github.com/CodeByOS">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeByOS&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="http://www.github.com/CodeByOS">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByOS&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CodeByOS&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByOS&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByOS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%" />
+
 </div>
-<br />
+
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
-  <a href="https://github.com/CodeByOS">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByOS&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" width="48%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByOS&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+
+*"The best code solves real problems — and the best data tells real stories."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=CodeByOS&color=7C3AED&style=for-the-badge&label=Profile+Views)
+
 </div>
